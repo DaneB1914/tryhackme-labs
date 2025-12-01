@@ -1,0 +1,26 @@
+# Nmap: The Basics — TryHackMe
+
+**Module:** Cyber Security 101  
+**Date:** December 2025  
+**Author:** <Dane Babcock>  
+**Tags:** Networking, Recon, Nmap  
+
+---
+
+## 1) What I Learned
+I learned how to scan a target with Nmap to find open ports and running services.  
+I also learned what `-sC`, `-sV`, and `-A` do in scans.
+
+---
+
+## 2) Tools I Used
+- Nmap  
+- TryHackMe target VM  
+
+---
+
+## 3) Steps I Took
+1. Started the TryHackMe target.  
+2. Ran:
+   ```bash
+   nmap -sC -sV -oN initial-scan.txt 10.64.179.150
