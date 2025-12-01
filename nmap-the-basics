@@ -24,3 +24,7 @@ I also learned what `-sC`, `-sV`, and `-A` do in scans.
 2. Ran:
    ```bash
    nmap -sC -sV -oN initial-scan.txt 10.64.179.150
+
+
+
+docs: added Nmap The Basics write-up
