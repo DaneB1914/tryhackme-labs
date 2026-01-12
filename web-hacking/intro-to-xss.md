@@ -81,3 +81,8 @@ XSS is less about memorizing payloads and more about understanding **how data fl
 
 - TryHackMe — Intro to Cross-Site Scripting  
 - OWASP Cross-Site Scripting (XSS) Guide  
+
+---
+
+Dane Babcock
+1/12/2026
