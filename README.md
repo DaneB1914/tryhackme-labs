@@ -7,6 +7,17 @@ Each write-up reflects practical penetration testing concepts, real-world impact
 
 ---
 
+## 📈 Progress
+
+- Introduction to Web Hacking ✅
+- Burp Suite ⏳
+- Network Security ⏳
+- Privilege Escalation ⏳
+
+Write-ups are added as modules are completed.
+
+---
+
 ## 🔍 Core Web Security Labs
 
 These labs focus on some of the most common and impactful web application vulnerabilities seen during real penetration tests.
