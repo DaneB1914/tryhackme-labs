@@ -2,8 +2,8 @@
 
 **Learning Path:** Junior Penetration Tester  
 **Module:** Introduction to Web Hacking  
-**Date:** <Add date>  
-**Author:** <Your Name>  
+**Date:** 1/12/2026  
+**Author:** Dane Babcock  
 **Tags:** Authentication, Access Control, Web Security, OWASP  
 
 ---
@@ -79,7 +79,3 @@ Authentication bypass vulnerabilities are often caused by **trusting user behavi
 - TryHackMe — Authentication Bypass  
 - OWASP Authentication Cheat Sheet  
 
----
-
-Dane Babcock
-1/12/2026
