@@ -2,8 +2,8 @@
 
 **Learning Path:** Junior Penetration Tester  
 **Module:** Introduction to Web Hacking  
-**Date:** <Add date>  
-**Author:** <Your Name>  
+**Date:** 12/28/2025  
+**Author:** Dane Babcock  
 **Tags:** Race Conditions, Business Logic, Web Security, Burp Suite  
 
 ---
@@ -84,8 +84,3 @@ Race condition vulnerabilities demonstrate that security issues are not always a
 - TryHackMe — Race Conditions  
 - OWASP Top 10: Business Logic Vulnerabilities  
 - PortSwigger — Race Conditions
-
----
-
-Dane Babcock
-1/12/2026
