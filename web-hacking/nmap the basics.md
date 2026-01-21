@@ -1,8 +1,8 @@
 # Nmap: The Basics — TryHackMe
 
 **Module:** Cyber Security 101  
-**Date:** December 2025  
-**Author:** <Dane Babcock>  
+**Date:** 12/29/2025  
+**Author:** Dane Babcock  
 **Tags:** Networking, Recon, Nmap  
 
 ---
@@ -25,7 +25,3 @@ I also learned what `-sC`, `-sV`, and `-A` do in scans.
    ```bash
    nmap -sC -sV -oN initial-scan.txt 10.64.179.150
 
----
-
-Dane Babcock
-1/12/2026
