@@ -2,8 +2,8 @@
 
 **Learning Path:** Junior Penetration Tester  
 **Module:** Introduction to Web Hacking  
-**Date:** <Add date>  
-**Author:** <Your Name>  
+**Date:** 1/12/2026  
+**Author:** Dane Babcock  
 **Tags:** IDOR, Authorization, Access Control, Web Security  
 
 ---
@@ -79,7 +79,4 @@ IDOR vulnerabilities highlight the difference between **authentication** and **a
 - TryHackMe — IDOR  
 - OWASP Broken Access Control  
 
----
 
-Dane Babcock
-1/12/2026
