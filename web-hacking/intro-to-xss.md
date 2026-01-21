@@ -2,8 +2,8 @@
 
 **Learning Path:** Junior Penetration Tester  
 **Module:** Introduction to Web Hacking  
-**Date:** <Add date>  
-**Author:** <Your Name>  
+**Date:** 1/12/2026  
+**Author:** Dane Babcock  
 **Tags:** XSS, Web Security, Input Validation, OWASP  
 
 ---
@@ -82,7 +82,3 @@ XSS is less about memorizing payloads and more about understanding **how data fl
 - TryHackMe — Intro to Cross-Site Scripting  
 - OWASP Cross-Site Scripting (XSS) Guide  
 
----
-
-Dane Babcock
-1/12/2026
