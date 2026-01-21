@@ -2,8 +2,8 @@
 
 **Learning Path:** Junior Penetration Tester  
 **Category:** Logic & Methodology Challenge  
-**Date:** <Add date>  
-**Author:** <Your Name>  
+**Date:** 1/13/2026  
+**Author:** Dane Babcock  
 
 ---
 
@@ -55,9 +55,3 @@ Effective penetration testing often relies more on **thinking clearly and testin
 
 [TryHackMe — PassCode Challenge](https://tryhackme.com/room/hfb1passcode)
 
----
-
-Dane Babcock
-1/13/2026
-
----
